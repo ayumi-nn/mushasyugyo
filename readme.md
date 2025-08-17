@@ -2,7 +2,7 @@
 
 ## 概要
 
-[HelloMentor](https://hellomentor.jp/)のコーディング課題として作成した、架空のポータルサイトです。  
+[HelloMentor](https://hellomentor.jp/)のコーディング課題として作成した、架空のメディアサイトです。  
 レスポンシブデザイン対応。
 
 ## 公開 URL
